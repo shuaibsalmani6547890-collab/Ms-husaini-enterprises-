@@ -1,0 +1,6 @@
+{
+  "name": "Husaini Enterprises",
+  "description": "Electric E-Rickshaw EV dealership billing, battery guarantee tracking, customer management, and dual-phone sync for Ms Husaini Enterprises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
